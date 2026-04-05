@@ -2,3 +2,5 @@
 It`s all about Data cleaning process using MY SQL
 <br>
 Thank you
+
+# last day of learning git and github
